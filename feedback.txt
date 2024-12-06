@@ -1,0 +1,33 @@
+GRADE: 13
+
+
+Overall Comments:
+	Memory dump functionality does not work
+
+
+Where you lost points:
+	The tests failing because your outputs are not aligned with expected outputs Seems like a minor issue to fix
+	Rest is cool
+
+Here is a detailed breakdown of your grades!
+	
+Test cases: 21/27
+
+Basics:
+	Read-in LPC program, store in memory, and working memdump: 1/2
+
+Testing:
+	Able to execute addTwoNums: 1/1
+	Able to run largerof2: 2/2
+	Able to run largestofN: 3/3
+	Able to run average5: 3/3
+	Able to run factorial: 3/3
+
+Error Handling:
+	Complete program that triggers memory dump on any fatal errors: 0/1
+
+
+Note:
+	We deduct 0.25 points / failing test case due to whitespace, new line, or misspelling, and cap it at 3
+	
+
